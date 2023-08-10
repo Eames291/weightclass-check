@@ -1,4 +1,3 @@
-!pip install streamlit
 import streamlit as st
 import joblib
 joblib.dump(clf,'model_new')
